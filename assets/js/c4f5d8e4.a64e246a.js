@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[2634],{9216:(s,c,u)=>{u.r(c),u.d(c,{default:()=>t});var e=u(6540),r=u(6347);u(6289),u(1410);var n=u(4848);function t(){const s=(0,r.W6)();return(0,e.useEffect)((()=>{s.push("/wiki_docsaurus/docs/intro")}),[s]),(0,n.jsx)("p",{children:" "})}}}]);
